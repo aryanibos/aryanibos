@@ -53,14 +53,18 @@
 
 </div>
 
-> ### I turn messy product ideas into clean, typed systems.
-> 
-> - 🗄️ **Backend:** Laravel · CI3 · Hono · Go · Java · .NET · Bun/Node
-> - 📱 **Frontend & Mobile:** React · Flutter · Kotlin · Tailwind
-> - 🔄 **Workflows:** State machines for real business processes
-> - 🛡️ **Reliability:** CI that fails locally before it fails on GitHub
-> 
-> _Philosophy: predictable code > clever code. Ship with confidence._
+<div align="center">
+
+### I turn messy product ideas into clean, typed systems.
+
+🗄️ **Backend:** Laravel · CI3 · Hono · Go · Java · .NET · Bun/Node  
+📱 **Frontend & Mobile:** React · Flutter · Kotlin · Tailwind  
+🔄 **Workflows:** State machines for real business processes  
+🛡️ **Reliability:** CI that fails locally before it fails on GitHub  
+
+_Philosophy: predictable code > clever code. Ship with confidence._
+
+</div>
 
 
 <div align="center">
