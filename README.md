@@ -25,7 +25,7 @@
       </td>
       <td align="center" style="border: none; padding: 15px;" valign="top">
         <span style="color: #cbd5e1; font-weight: 600; font-size: 14px;">Backend</span><br/><br/>
-        <img src="https://skillicons.dev/icons?i=laravel,nestjs,hono,express&theme=dark" alt="Backend"/>
+        <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express&theme=dark" alt="Backend"/>
       </td>
       <td align="center" style="border: none; padding: 15px;" valign="top">
         <span style="color: #cbd5e1; font-weight: 600; font-size: 14px;">Database</span><br/><br/>
