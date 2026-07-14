@@ -181,31 +181,19 @@ Tailwind    ·  Vite ·  Zod   ·  Docker ·  GitHub Actions
 
 ## 📊 GitHub pulse
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=aryanibos&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E5E7EB&ring_color=8B5CF6"
-  height="165"
-  alt="GitHub stats"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanibos&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB"
-  height="165"
-  alt="Top languages"
-/>
+<!-- Official github-readme-stats.vercel.app is often paused; use working mirror -->
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanibos&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E5E7EB&ring_color=8B5CF6&cache_seconds=1800" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanibos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&cache_seconds=1800" width="40%" alt="Top languages" />
+</p>
 
-<br/>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=aryanibos&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=94A3B8&cache_seconds=1800" width="55%" alt="GitHub streak" />
+</p>
 
-<img
-  src="https://streak-stats.demolab.com?user=aryanibos&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=C084FC&currStreakLabel=A78BFA"
-  height="165"
-  alt="GitHub streak"
-/>
-
-<br/>
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=aryanibos&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
-  alt="Trophies"
-/>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanibos&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C084FC" width="95%" alt="Contribution activity graph" />
+</p>
 
 </div>
 
@@ -232,10 +220,7 @@ Tailwind    ·  Vite ·  Zod   ·  Docker ·  GitHub Actions
 
 <br/>
 
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-  alt="Random dev quote"
-/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" alt="Random dev quote" />
 
 <br/><br/>
 
