@@ -1,234 +1,250 @@
 <!-- ============================================================
   GitHub Profile README — @aryanibos
-  Repo wajib: github.com/aryanibos/aryanibos  (public + main)
+  Repo: github.com/aryanibos/aryanibos  (public + main)
   ============================================================ -->
 
 <div align="center">
 
-  <!-- Header banner (gradient dark tech) -->
+  <!-- Header banner — deep purple-to-midnight gradient -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:1A1A40,100:3D2C8D&height=220&section=header&text=aryanibos&fontSize=54&fontColor=E8E8FF&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20TypeScript%20%C2%B7%20Systems%20that%20Ship&descAlignY=55&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E1A,25:151030,50:2D1B69,75:4C1D95,100:7C3AED&height=250&section=header&text=aryanibos&fontSize=60&fontColor=F5F3FF&fontAlignY=33&desc=Full-Stack%20Engineer%20·%20TypeScript%20·%20Systems%20that%20Ship&descAlignY=53&descSize=17&animation=fadeIn"
     width="100%"
     alt="header"
   />
 
-  <!-- Typing animation -->
+  <!-- Typing animation — elegant serif-like feel -->
   <a href="https://github.com/aryanibos">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=Hey+there%2C+I'm+Arya+%F0%9F%91%8B;I+build+APIs+%2B+UI+that+feel+premium;Type-safe.+Tested.+Production-ready."
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey+there%2C+I'm+Arya+%E2%9C%A8;Crafting+type-safe+systems+that+scale;From+API+to+pixel+%E2%80%94+production-ready"
       alt="Typing SVG"
     />
   </a>
 
   <br/>
 
-  <!-- Social / contact pills -->
+  <!-- Contact pills — sleek for-the-badge style -->
   <p>
     <a href="https://github.com/aryanibos">
       <img src="https://img.shields.io/badge/GitHub-aryanibos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
+    </a>&nbsp;
     <a href="mailto:aryaisnaidi01@gmail.com">
-      <img src="https://img.shields.io/badge/Email-aryaisnaidi01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <!-- Ganti href LinkedIn-mu -->
+      <img src="https://img.shields.io/badge/Gmail-aryaisnaidi01-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=aryanibos&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="Profile views"/>
+    </a>&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=aryanibos&label=Visitors&color=7c3aed&style=for-the-badge" alt="Profile views"/>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-22c55e?style=flat-square&logo=checkmarx&logoColor=white" alt="status"/>
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20TypeScript-6366f1?style=flat-square" alt="focus"/>
-    <img src="https://img.shields.io/badge/Timezone-WIB%20(UTC%2B7)-0ea5e9?style=flat-square" alt="tz"/>
+    <img src="https://img.shields.io/badge/✦_Open_to_collaborate-22c55e?style=flat-square" alt="status"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Full--Stack_|_TypeScript-6366f1?style=flat-square" alt="focus"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/WIB_(UTC+7)-0ea5e9?style=flat-square" alt="tz"/>
   </p>
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## ✨ About me
-
-</div>
-
-<div align="center">
-
-### I turn messy product ideas into clean, typed systems.
-
-🗄️ **Backend:** Laravel · CI3 · Hono · Go · Java · .NET · Bun/Node  
-📱 **Frontend & Mobile:** React · Flutter · Kotlin · Tailwind  
-🔄 **Workflows:** State machines for real business processes  
-🛡️ **Reliability:** CI that fails locally before it fails on GitHub  
-
-_Philosophy: predictable code > clever code. Ship with confidence._
-
-</div>
-
-
-<div align="center">
-
-| 👀 Interested in | 🌱 Learning now | 💞 Collaborate on |
-| :--------------: | :-------------: | :---------------: |
-| Full-stack TS apps | System design | Open-source TS tools |
-| API & data modeling | Scalable architecture | Dashboards & auth flows |
-| DX / monorepos / CI | Advanced React patterns | Pair programming |
-| Product-minded engineering | Testing culture | Side projects that ship |
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Tech arsenal
-
-**Languages & runtime**
+## `✦` About Me
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,go,python,php,dotnet&theme=dark" alt="languages"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/output/github-snake-dark.svg" width="100%" alt="snake"/>
 
 <br/><br/>
 
-**Frontend & mobile**
+> ### *"I turn messy product ideas into clean, typed systems."*
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,html,css&theme=dark" alt="frontend"/>
-
-<br/><br/>
-
-**Backend & frameworks**
+🗄️ **Backend** — Laravel · CI3 · Hono · Go · Java · .NET · Bun/Node
+<br/>
+📱 **Frontend & Mobile** — React · Flutter · Kotlin · Tailwind
+<br/>
+🔄 **Workflows** — State machines for real business processes
+<br/>
+🛡️ **Reliability** — CI that fails locally before it fails on GitHub
 
 <br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,bun,laravel,postgres,docker,redis,nginx&theme=dark" alt="backend"/>
-
-<br/><br/>
-
-**Tooling & ship lane**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,androidstudio&theme=dark" alt="tooling"/>
-
-<br/><br/>
 
 ```
-TypeScript · JavaScript · Java · Kotlin · Go · PHP · C# / .NET
-React · Flutter · Tailwind · Vite
-Laravel · CodeIgniter 3 · Hono · Bun · Node.js
-PostgreSQL · Docker · Redis · GitHub Actions
+💎  Philosophy: predictable code > clever code. Ship with confidence.
 ```
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🚀 What I ship
+## `⚡` Tech Arsenal
 
-</div>
+<br/>
 
-<table align="center">
+<table>
   <tr>
-    <td width="50%" valign="top">
-
-### 🔷 Backend craft
-- APIs with **Laravel**, **CodeIgniter 3**, **Hono**, **.NET**
-- Services in **Go** & **Java** when needed
-- Strict validation, auth, and RBAC flows
-- State machines, transactions & audit trails
-- Layered architecture (router → service → repo)
-
+    <td align="center"><b>Languages & Runtime</b></td>
+    <td align="center"><b>Frontend & Mobile</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,go,python,php,dotnet&theme=dark" alt="languages"/>
     </td>
-    <td width="50%" valign="top">
-
-### 🔶 Frontend & mobile
-- **React** SPAs (MVP-style structure)
-- **Flutter** & **Kotlin** mobile apps
-- Dashboard UX: tables, filters, empty states
-- Design systems that stay consistent
-- Performance-aware, accessible UI
-
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,html,css&theme=dark" alt="frontend"/>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-
-### 🟢 Engineering habits
-- Type-check + tests before every push
-- Small modules, hard file-size limits
-- No `any` games — narrow properly
-- Readable PRs & conventional commits
-
+    <td align="center"><b>Backend & Infra</b></td>
+    <td align="center"><b>Tooling & DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,bun,laravel,postgres,docker,redis,nginx&theme=dark" alt="backend"/>
     </td>
-    <td width="50%" valign="top">
-
-### 🟣 Currently cooking
-- Academic / workflow platforms
-- Internal tools & admin dashboards
-- Polished auth + RBAC experiences
-- Open to cool full-stack collaborations
-
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,androidstudio&theme=dark" alt="tooling"/>
     </td>
   </tr>
 </table>
 
----
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📊 GitHub pulse
+## `🚀` What I Ship
 
-<!-- Official github-readme-stats.vercel.app is often paused; use working mirror -->
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center"><h3>🔷 Backend Craft</h3></div>
+      <ul>
+        <li>APIs with <b>Laravel</b>, <b>CodeIgniter 3</b>, <b>Hono</b>, <b>.NET</b></li>
+        <li>Services in <b>Go</b> & <b>Java</b> when needed</li>
+        <li>Strict validation, auth, and RBAC flows</li>
+        <li>State machines, transactions & audit trails</li>
+        <li>Layered architecture (router → service → repo)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center"><h3>🔶 Frontend & Mobile</h3></div>
+      <ul>
+        <li><b>React</b> SPAs with MVP-style structure</li>
+        <li><b>Flutter</b> & <b>Kotlin</b> mobile apps</li>
+        <li>Dashboard UX: tables, filters, empty states</li>
+        <li>Design systems that stay consistent</li>
+        <li>Performance-aware, accessible UI</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center"><h3>🟢 Engineering Habits</h3></div>
+      <ul>
+        <li>Type-check + tests before every push</li>
+        <li>Small modules, hard file-size limits</li>
+        <li>No <code>any</code> games — narrow properly</li>
+        <li>Readable PRs & conventional commits</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center"><h3>🟣 Currently Cooking</h3></div>
+      <ul>
+        <li>Academic / workflow platforms</li>
+        <li>Internal tools & admin dashboards</li>
+        <li>Polished auth + RBAC experiences</li>
+        <li>Open to cool full-stack collaborations</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `📊` GitHub Pulse
+
+<br/>
+
+<!-- Stats & Languages side by side -->
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanibos&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E5E7EB&ring_color=8B5CF6&cache_seconds=1800" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanibos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&cache_seconds=1800" width="40%" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanibos&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E5E7EB&ring_color=8B5CF6&border_radius=16&cache_seconds=1800" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanibos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&border_radius=16&cache_seconds=1800" width="41%" alt="Top languages" />
 </p>
 
+<!-- Streak stats -->
 <p>
-  <img src="https://streak-stats.demolab.com/?user=aryanibos&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=94A3B8&cache_seconds=1800" width="55%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=aryanibos&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=94A3B8&border_radius=16&cache_seconds=1800" width="56%" alt="GitHub streak" />
 </p>
 
+<!-- Activity graph -->
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanibos&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C084FC" width="95%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanibos&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C084FC&radius=16" width="96%" alt="Contribution activity graph" />
+</p>
+
+<!-- Trophy case -->
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanibos&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" width="96%" alt="Trophies"/>
 </p>
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📫 Let's connect
-
-<p>
-  <a href="mailto:aryaisnaidi01@gmail.com"><strong>aryaisnaidi01@gmail.com</strong></a>
-  ·
-  <a href="https://github.com/aryanibos">github.com/aryanibos</a>
-  ·
-  <a href="https://www.linkedin.com/in/"><!-- ganti URL -->LinkedIn</a>
-</p>
+## `📫` Let's Connect
 
 <br/>
 
-### 💬 Quote I code by
-
-> **“Make it work. Make it right. Make it fast — in that order.  
-> And never push red.”**
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" alt="Random dev quote" />
+<a href="mailto:aryaisnaidi01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-aryaisnaidi01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/aryanibos">
+  <img src="https://img.shields.io/badge/GitHub-aryanibos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <br/><br/>
 
+> **"Make it work. Make it right. Make it fast — in that order.**
+> **And never push red."**
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" alt="Random dev quote" />
+
+<br/><br/>
+
+<!-- Footer wave -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:3D2C8D,50:1A1A40,100:0B1026&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=22&fontColor=E8E8FF&fontAlignY=70"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,25:4C1D95,50:2D1B69,75:151030,100:0B0E1A&height=150&section=footer&text=Thanks%20for%20visiting%20✨&fontSize=24&fontColor=F5F3FF&fontAlignY=72&animation=fadeIn"
   width="100%"
   alt="footer"
 />
