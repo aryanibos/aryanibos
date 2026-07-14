@@ -57,8 +57,8 @@
 ┌──────────────────────────────────────────────────────────────────────┐
 │  I turn messy product ideas into clean, typed systems.               │
 │                                                                      │
-│  • Backend that stays boring (in a good way): Hono · Bun · Postgres  │
-│  • Frontend that feels intentional: React · Tailwind · solid UX      │
+│  • Backend: Laravel · CI3 · Hono · Go · Java · .NET · Bun/Node       │
+│  • Frontend & mobile: React · Flutter · Kotlin · Tailwind            │
 │  • Workflows & state machines for real business processes            │
 │  • CI that fails locally before it fails on GitHub                   │
 │                                                                      │
@@ -87,23 +87,23 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,bun,nodejs,python&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,go,python,php,dotnet&theme=dark" alt="languages"/>
 
 <br/><br/>
 
-**Frontend**
+**Frontend & mobile**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="frontend"/>
+<img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,html,css&theme=dark" alt="frontend"/>
 
 <br/><br/>
 
-**Backend & data**
+**Backend & frameworks**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,prisma,docker,redis,nginx&theme=dark" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,bun,laravel,postgres,docker,redis,nginx&theme=dark" alt="backend"/>
 
 <br/><br/>
 
@@ -111,13 +111,15 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma&theme=dark" alt="tooling"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,androidstudio&theme=dark" alt="tooling"/>
 
 <br/><br/>
 
 ```
-TypeScript  ·  Bun  ·  React  ·  Hono  ·  PostgreSQL  ·  Drizzle
-Tailwind    ·  Vite ·  Zod   ·  Docker ·  GitHub Actions
+TypeScript · JavaScript · Java · Kotlin · Go · PHP · C# / .NET
+React · Flutter · Tailwind · Vite
+Laravel · CodeIgniter 3 · Hono · Bun · Node.js
+PostgreSQL · Docker · Redis · GitHub Actions
 ```
 
 </div>
@@ -128,66 +130,52 @@ Tailwind    ·  Vite ·  Zod   ·  Docker ·  GitHub Actions
 
 ## 🚀 What I ship
 
-<br/>
+</div>
 
-<table align="center" width="100%">
+<table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <div align="center">
+    <td width="50%" valign="top">
 
 ### 🔷 Backend craft
+- APIs with **Laravel**, **CodeIgniter 3**, **Hono**, **.NET**
+- Services in **Go** & **Java** when needed
+- Strict validation, auth, and RBAC flows
+- State machines, transactions & audit trails
+- Layered architecture (router → service → repo)
 
-REST APIs with **strict validation** (Zod)  
-Role-based access & secure auth flows  
-State machines for multi-step workflows  
-Transactions + audit trails when it matters  
-Layered architecture (router → service → repo)
-
-      </div>
     </td>
-    <td width="50%" align="center" valign="top">
-      <div align="center">
+    <td width="50%" valign="top">
 
-### 🔶 Frontend craft
+### 🔶 Frontend & mobile
+- **React** SPAs (MVP-style structure)
+- **Flutter** & **Kotlin** mobile apps
+- Dashboard UX: tables, filters, empty states
+- Design systems that stay consistent
+- Performance-aware, accessible UI
 
-React SPAs with clear structure (MVP-style)  
-Dashboard UX: tables, filters, empty states  
-Design systems that stay consistent  
-Performance-aware, accessible UI  
-Pixel care without overengineering
-
-      </div>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <div align="center">
+    <td width="50%" valign="top">
 
 ### 🟢 Engineering habits
+- Type-check + tests before every push
+- Small modules, hard file-size limits
+- No `any` games — narrow properly
+- Readable PRs & conventional commits
 
-Type-check + tests before every push  
-Small modules, hard file-size limits  
-No `any` games — narrow properly  
-Readable PRs & conventional commits
-
-      </div>
     </td>
-    <td width="50%" align="center" valign="top">
-      <div align="center">
+    <td width="50%" valign="top">
 
 ### 🟣 Currently cooking
+- Academic / workflow platforms
+- Internal tools & admin dashboards
+- Polished auth + RBAC experiences
+- Open to cool full-stack collaborations
 
-Academic / workflow platforms  
-Internal tools & admin dashboards  
-Polished auth + RBAC experiences  
-Open to cool TS collaborations
-
-      </div>
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
