@@ -128,52 +128,66 @@ Tailwind    ·  Vite ·  Zod   ·  Docker ·  GitHub Actions
 
 ## 🚀 What I ship
 
-</div>
+<br/>
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
+      <div align="center">
 
 ### 🔷 Backend craft
-- REST APIs with **strict validation** (Zod)
-- Role-based access & secure auth flows
-- State machines for multi-step workflows
-- Transactions + audit trails when it matters
-- Layered architecture (router → service → repo)
 
+REST APIs with **strict validation** (Zod)  
+Role-based access & secure auth flows  
+State machines for multi-step workflows  
+Transactions + audit trails when it matters  
+Layered architecture (router → service → repo)
+
+      </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
+      <div align="center">
 
 ### 🔶 Frontend craft
-- React SPAs with clear structure (MVP-style)
-- Dashboard UX: tables, filters, empty states
-- Design systems that stay consistent
-- Performance-aware, accessible UI
-- Pixel care without overengineering
 
+React SPAs with clear structure (MVP-style)  
+Dashboard UX: tables, filters, empty states  
+Design systems that stay consistent  
+Performance-aware, accessible UI  
+Pixel care without overengineering
+
+      </div>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
+      <div align="center">
 
 ### 🟢 Engineering habits
-- Type-check + tests before every push
-- Small modules, hard file-size limits
-- No `any` games — narrow properly
-- Readable PRs & conventional commits
 
+Type-check + tests before every push  
+Small modules, hard file-size limits  
+No `any` games — narrow properly  
+Readable PRs & conventional commits
+
+      </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
+      <div align="center">
 
 ### 🟣 Currently cooking
-- Academic / workflow platforms
-- Internal tools & admin dashboards
-- Polished auth + RBAC experiences
-- Open to cool TS collaborations
 
+Academic / workflow platforms  
+Internal tools & admin dashboards  
+Polished auth + RBAC experiences  
+Open to cool TS collaborations
+
+      </div>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
