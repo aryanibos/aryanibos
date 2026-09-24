@@ -1,152 +1,385 @@
+<div align="center">
+
 # Arya Isnaidi
 
-Software Engineer building web products, backend systems, and scalable applications.
+### Software Engineer · Full-Stack Developer · Product Builder
 
-I focus on turning ideas into production-ready software — from frontend interfaces to backend architecture, APIs, databases, and deployment.
+Building digital products, backend systems, and scalable applications.
 
-Currently working with:
+<br/>
+
+<a href="https://porto-arx.my.id">
+  Portfolio
+</a>
+&nbsp; • &nbsp;
+<a href="mailto:aryaisnaidi01@gmail.com">
+  Email
+</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/aryanibos">
+  GitHub
+</a>
+
+</div>
+
+<br/>
+
+```bash
+$ whoami
+
+Arya Isnaidi
+
+> Software Engineer from Indonesia
+> Building web products and backend systems
+> Exploring scalable architecture and AI-assisted engineering
+```
+
+---
+
+# 🧠 About Me
+
+I am a **Software Engineer** focused on building production-ready applications.
+
+My work combines:
+
+- Product thinking
+- Clean architecture
+- Backend engineering
+- Modern frontend development
+- System integration
+- Continuous improvement
+
+I enjoy transforming ideas into reliable software systems — from designing interfaces, creating APIs, managing databases, integrating third-party services, until deploying applications into production.
+
+```text
+Idea
+ ↓
+Architecture
+ ↓
+Implementation
+ ↓
+Integration
+ ↓
+Deployment
+ ↓
+Improvement
+```
+
+Currently focused on:
+
 - Full-stack web applications
 - Backend engineering
 - API design & system integration
-- AI-assisted software development workflows
+- SaaS development
+- Payment systems
+- AI-assisted development workflows
 
 ---
 
-## About
+# ⚙️ Engineering Stack
 
-I'm a Software Engineer from Indonesia with experience building digital products across SaaS, payment systems, enterprise applications, and internal platforms.
+## Frontend
 
-My main focus is creating systems that are:
-- maintainable
-- scalable
-- secure
-- easy to evolve
+```text
+React.js
+Next.js
+TypeScript
+JavaScript
+Tailwind CSS
+Inertia.js
+```
 
-I enjoy working across the entire development lifecycle:
-planning architecture → writing code → integrating services → deploying → improving the product.
+Building:
 
----
+- Responsive web applications
+- Dashboard systems
+- Interactive user experiences
+- Modern frontend architecture
 
-## Engineering Stack
-
-### Frontend
-React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • Inertia.js
-
-### Backend
-Laravel • Node.js • Express.js • NestJS • Go (Gin/Fiber)
-
-### Database
-PostgreSQL • MySQL • MariaDB • SQLite • Redis
-
-### Infrastructure
-Docker • Linux • CI/CD • Cloud Deployment
-
-### Engineering
-REST API • Authentication • RBAC • Payment Integration • Third-party API Integration
 
 ---
 
-# Selected Work
+## Backend
 
-## Rekyndness.id
-Donation Distribution Platform
+```text
+Laravel
+Node.js
+Express.js
+NestJS
+Go (Gin/Fiber)
+```
 
-A donation platform that connects donors with used toy redistribution workflows.
+Building:
 
-Built:
-- donation management flow
-- shipping aggregator integration
-- payment gateway integration
-- admin monitoring system
+- REST API services
+- Authentication systems
+- Business logic
+- Background processes
+- Third-party integrations
+
+
+---
+
+## Database
+
+```text
+PostgreSQL
+MySQL
+MariaDB
+SQLite
+Redis
+```
+
+Experience:
+
+- Database modeling
+- Query optimization
+- Data management
+- Application scalability
+
+
+---
+
+## Infrastructure
+
+```text
+Docker
+Linux
+CI/CD
+Cloud Deployment
+Git
+```
+
+Focused on:
+
+- Reproducible environments
+- Deployment workflow
+- Application reliability
+
+
+---
+
+# 🚀 Selected Projects
+
+
+## 🎁 Rekyndness.id
+
+### Donation Distribution Platform
+
+A platform that supports used toy donation distribution workflows by connecting donors, shipping services, payment systems, and administrators.
+
+### Engineering Highlights
+
+```text
+✓ Donation workflow management
+✓ Shipping aggregator integration
+✓ Payment gateway integration
+✓ Admin monitoring system
+✓ Transaction lifecycle
+```
 
 Stack:
-Laravel · React · Inertia.js · MySQL
+
+```text
+Laravel
+React
+Inertia.js
+MySQL
+REST API
+```
 
 
 ---
 
-## FTVPay
+## 💳 FTVPay
 
-QRIS Payment Platform
+### QRIS Payment Platform
 
-A payment system focused on transaction processing and digital payment workflows.
+A digital payment platform focused on transaction processing and payment workflows.
 
-Built:
-- payment API integration
-- transaction management
-- backend services
-- dashboard interface
+### Engineering Highlights
+
+```text
+✓ Payment integration
+✓ Transaction management
+✓ Backend services
+✓ API communication
+✓ Dashboard system
+```
 
 Stack:
-Laravel · React · MySQL · REST API
+
+```text
+Laravel
+React
+MySQL
+REST API
+Payment Gateway
+```
 
 
 ---
 
-## Restora
+## 🍽️ Restora
 
-Multi-tenant Restaurant SaaS Platform
+### Multi-Tenant Restaurant SaaS
 
-A restaurant management platform designed for handling multiple branches and operational workflows.
+A restaurant management platform designed to support operational workflows across multiple branches.
+
+### Architecture Focus
+
+```text
+✓ Multi-tenant architecture
+✓ Role Based Access Control
+✓ Business workflow automation
+✓ Scalable backend services
+✓ Operational dashboard
+```
+
+Stack:
+
+```text
+Next.js
+TypeScript
+NestJS
+PostgreSQL
+Redis
+```
+
+
+---
+
+# 🏢 Enterprise Experience
+
+Experience developing internal applications:
+
+```text
+SIM Daget
+SIM Pertanian Sehat
+SIM Desa Sarjana Unggul
+SAU Penggajian Dosen
+DBS Mining Logistik
+Government Applications
+```
 
 Focus:
-- multi-tenant architecture
-- authentication & authorization
-- business process automation
-- scalable backend services
 
-Stack:
-Next.js · TypeScript · NestJS · PostgreSQL · Redis
-
-
----
-
-## Enterprise Systems
-
-Experience developing internal business applications:
-
-- SIM Daget
-- SIM Pertanian Sehat
-- SIM Desa Sarjana Unggul
-- SAU Penggajian Dosen
-- DBS Mining Logistik
-
-Focus:
-- business workflow digitization
-- database management
-- API development
-- system maintenance
+- Business process digitization
+- Backend development
+- API integration
+- Database management
+- System maintenance
 
 
 ---
 
-# Development Philosophy
+# 🏗️ Engineering Philosophy
 
-I believe good software is not only about writing code.
+I believe software is not only about writing code.
 
-It is about understanding the problem, designing the right solution, and building something that can survive change.
+Good engineering means building systems that are:
+
+```text
+Simple
+Maintainable
+Reliable
+Scalable
+Easy to Improve
+```
+
+My approach:
+
+> Understand the problem.
+>
+> Design the right solution.
+>
+> Build software that survives change.
+
 
 ---
 
-# Beyond Code
+# 🤖 AI-Assisted Engineering
 
-Currently exploring:
+Exploring how AI can improve modern software development.
 
-- AI-assisted engineering workflows
-- System design
-- Backend architecture
-- Cloud infrastructure
-- Developer productivity tools
+Current workflow:
+
+```text
+Problem Analysis
+        ↓
+AI-assisted Research
+        ↓
+Architecture Planning
+        ↓
+Implementation
+        ↓
+Code Review
+        ↓
+Optimization
+```
+
+Tools:
+
+```text
+Claude
+OpenAI Codex
+Cursor
+GitHub Copilot
+Gemini
+```
+
+AI is not replacing engineering.
+
+It is becoming a powerful engineering partner.
 
 ---
 
-## Connect
+# 📚 Currently Exploring
 
-Portfolio:
+## Backend Architecture
+
+```text
+System Design
+Distributed Systems
+Scalable APIs
+Cloud Infrastructure
+```
+
+## AI Engineering
+
+```text
+Agentic Workflow
+AI Developer Tools
+Automation
+Developer Productivity
+```
+
+---
+
+# 🌎 Let's Connect
+
+Open for:
+
+```text
+Software Engineering Opportunities
+Full-Stack Development
+Backend Engineering
+Product Collaboration
+Technology Projects
+```
+
+🌐 Portfolio  
 https://porto-arx.my.id
 
-Email:
+📧 Email  
 aryaisnaidi01@gmail.com
 
-LinkedIn:
-your-link-here
+💻 GitHub  
+https://github.com/aryanibos
+
+
+<div align="center">
+
+### Turning ideas into systems.
+
+</div>
