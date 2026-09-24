@@ -1,158 +1,184 @@
-<!-- ============================================================
-  GitHub Profile README — @aryanibos
-  Repo: github.com/aryanibos/aryanibos  (public + main)
-  ============================================================ -->
+# 👋 Hi, I'm Arya Isnaidi
 
-<div align="center">
-  <!-- Custom Header Banner -->
-  <img src="header.svg" width="100%" alt="header banner" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Building+Scalable+Web+Applications;Exploring+AI-Assisted+Development" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://porto-arx.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-porto--arx.my.id-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:aryaisnaidi01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/aryanibos">
+    <img src="https://img.shields.io/badge/GitHub-aryanibos-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+---
 
-<div align="center">
-  <h2>⚡ Tech Stack</h2>
-</div>
+## 🚀 About Me
 
-<div align="center">
-  <table align="center" style="border: none; border-collapse: collapse; background-color: #030712; border-radius: 10px;">
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 15px;" valign="top">
-        <span style="color: #cbd5e1; font-weight: 600; font-size: 14px;">Frontend</span><br/><br/>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" alt="Frontend"/>
-      </td>
-      <td align="center" style="border: none; padding: 15px;" valign="top">
-        <span style="color: #cbd5e1; font-weight: 600; font-size: 14px;">Backend</span><br/><br/>
-        <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express&theme=dark" alt="Backend"/>
-      </td>
-      <td align="center" style="border: none; padding: 15px;" valign="top">
-        <span style="color: #cbd5e1; font-weight: 600; font-size: 14px;">Database</span><br/><br/>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Database"/>
-      </td>
-      <td align="center" style="border: none; padding: 15px;" valign="top">
-        <span style="color: #cbd5e1; font-weight: 600; font-size: 14px;">DevOps</span><br/><br/>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="DevOps"/>
-      </td>
-      <td align="center" style="border: none; padding: 15px;" valign="top">
-        <span style="color: #cbd5e1; font-weight: 600; font-size: 14px;">Tools</span><br/><br/>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
-      </td>
-    </tr>
-  </table>
-</div>
+I'm **Arya Isnaidi**, a **Software Engineer & Full-Stack Developer** focused on building modern, scalable, and maintainable web applications.
 
-<br/>
+I specialize in developing end-to-end products — from designing responsive user interfaces, building secure backend services, integrating APIs, managing databases, to deploying production-ready applications.
 
-<!-- ═══════════════════════ ABOUT ME & CARDS ═══════════════════════ -->
+Currently focused on:
 
-<table align="center" width="100%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <!-- Left Column: About Me -->
-    <td width="55%" valign="top" style="border: none; padding-right: 25px;">
-      <h2>🚀 About Me</h2>
-      <p style="font-size: 15px; line-height: 1.6; color: #cbd5e1;">
-        I'm a passionate Full Stack Developer who loves turning ideas into real-world solutions. 
-        I enjoy building clean, performance-driven applications and continuously learning new technologies.
-      </p>
-      <br/>
-      <blockquote style="border-left: 4px solid #a78bfa; padding-left: 15px; margin: 0; font-style: italic; color: #a78bfa; background-color: #0f172a; padding-top: 10px; padding-bottom: 10px; border-radius: 0 8px 8px 0;">
-        "Code is not just my skill, it's my way of solving problems."
-      </blockquote>
-    </td>
-    <!-- Right Column: Info Cards Grid -->
-    <td width="45%" valign="top" style="border: none;">
-      <table width="100%" style="border: none; border-collapse: separate; border-spacing: 0 12px;">
-        <!-- Education -->
-        <tr style="border: none;">
-          <td valign="top" style="border: 1px solid #334155; border-radius: 8px; padding: 12px; background-color: #030712;">
-            <div style="font-weight: bold; color: #f8fafc; font-size: 14px; margin-bottom: 4px;">🎓 Education</div>
-            <div style="font-size: 13px; color: #cbd5e1;">STT Terpadu Nurul Fikri</div>
-            <div style="font-size: 12px; color: #64748b;">Teknik Informatika (2022 - Present)</div>
-          </td>
-        </tr>
-        <!-- Experience -->
-        <tr style="border: none;">
-          <td valign="top" style="border: 1px solid #334155; border-radius: 8px; padding: 12px; background-color: #030712;">
-            <div style="font-weight: bold; color: #f8fafc; font-size: 14px; margin-bottom: 4px;">💼 Experience</div>
-            <div style="font-size: 13px; color: #cbd5e1;">Software Engineer Intern</div>
-            <div style="font-size: 12px; color: #64748b;">PT Pilar Perkasa Utama (Jan 2026 - Now)</div>
-          </td>
-        </tr>
-        <!-- Achievements -->
-        <tr style="border: none;">
-          <td valign="top" style="border: 1px solid #334155; border-radius: 8px; padding: 12px; background-color: #030712;">
-            <div style="font-weight: bold; color: #f8fafc; font-size: 14px; margin-bottom: 4px;">🏆 Achievements</div>
-            <div style="font-size: 12px; color: #94a3b8; line-height: 1.4;">
-              • GEMASTIK 2025 Participant<br/>
-              • Hackathon Finalist<br/>
-              • MSIB Full Stack Web Dev
-            </div>
-          </td>
-        </tr>
-        <!-- Fun Fact -->
-        <tr style="border: none;">
-          <td valign="top" style="border: 1px solid #334155; border-radius: 8px; padding: 12px; background-color: #030712;">
-            <div style="font-weight: bold; color: #f8fafc; font-size: 14px; margin-bottom: 4px;">⚡ Fun Fact</div>
-            <div style="font-size: 13px; color: #cbd5e1;">I love coffee ☕ and clean UI designs ✨</div>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+* ⚡ Full-stack web development
+* 🏗️ Backend architecture & API engineering
+* 🤖 AI-assisted software development workflows
+* 🔐 Secure authentication, RBAC, and scalable systems
+* 🚀 Building SaaS and enterprise applications
 
-<br/>
+I enjoy transforming ideas into reliable digital products with clean architecture and great user experiences.
 
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+---
 
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-</div>
+## 💻 Tech Stack
 
-<div align="center">
-  <table align="center" style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <!-- Stats Card -->
-      <td valign="top" style="border: none; padding: 6px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanibos&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=A78BFA&icon_color=C084FC&text_color=E5E7EB&ring_color=8B5CF6&border_radius=10&cache_seconds=1800" height="200" alt="GitHub Stats"/>
-      </td>
-      <!-- Top Langs Card -->
-      <td valign="top" style="border: none; padding: 6px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanibos&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=030712&title_color=A78BFA&text_color=E5E7EB&border_radius=10&cache_seconds=1800" height="200" alt="Top Languages"/>
-      </td>
-      <!-- Streak Card -->
-      <td valign="top" style="border: none; padding: 6px;">
-        <img src="https://streak-stats.demolab.com/?user=aryanibos&theme=tokyonight&hide_border=true&background=030712&ring=8B5CF6&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=94A3B8&border_radius=10&cache_seconds=1800" height="200" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
-</div>
+### Frontend
 
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat\&logo=tailwindcss)
 
-<!-- ═══════════════════════ SOCIALS & CONNECT ═══════════════════════ -->
+### Backend
 
-<div align="center">
-  <h3>🤝 Connect with me</h3>
-  <p>
-    <a href="https://github.com/aryanibos" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>&nbsp;
-    <a href="mailto:aryaisnaidi01@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-black?style=flat\&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat\&logo=nestjs)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go)
 
-<br/>
+### Database & Infrastructure
 
-<!-- ═══════════════════════ CUSTOM FOOTER ═══════════════════════ -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
 
-<div align="center">
-  <img src="footer.svg" width="100%" alt="footer banner" />
-</div>
+### Development Workflow
+
+* Git & GitHub
+* REST API Design
+* CI/CD
+* Dockerized Development
+* AI-assisted coding with Cursor, Claude, Codex, and other AI tools
+
+---
+
+# 🏗️ Featured Projects
+
+## 🍽️ Restora — Multi-Tenant Restaurant SaaS
+
+A modern restaurant operation platform designed for managing multiple branches, orders, inventory, and operational workflows.
+
+**Highlights:**
+
+* Multi-tenant architecture
+* Role-Based Access Control (RBAC)
+* Order lifecycle management
+* Kitchen Display System (KDS)
+* Inventory management
+* Audit logs
+* Background workers & event-driven workflows
+
+**Stack:**
+`Next.js` `React` `TypeScript` `NestJS` `PostgreSQL` `Redis`
+
+---
+
+## 💳 FTVPay — Digital Payment Platform
+
+A payment platform focused on QRIS payment workflows and transaction management.
+
+**Highlights:**
+
+* Payment gateway integration
+* Transaction processing
+* Backend API development
+* Dashboard management
+
+**Stack:**
+`Laravel` `React` `MySQL` `REST API`
+
+---
+
+## 🎁 Rekyndness.id — Donation Distribution Platform
+
+A donation management system connecting donors with used toy redistribution processes.
+
+**Highlights:**
+
+* Donation workflow management
+* Shipping aggregator integration
+* Payment gateway integration
+* Admin monitoring system
+
+**Stack:**
+`Laravel` `React` `Inertia.js` `MySQL`
+
+---
+
+## 📂 Enterprise Information Systems
+
+Experience building internal enterprise applications:
+
+* SIM Daget
+* SIM Pertanian Sehat
+* SIM Desa Sarjana Unggul
+* SAU Penggajian Dosen
+* DBS Mining Logistik
+
+Focused on:
+
+* Business process digitization
+* Backend services
+* Database management
+* API integration
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aryanibos&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanibos&theme=tokyonight" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced Backend Architecture
+* Distributed Systems
+* AI Engineering & Agentic Workflow
+* Cloud Infrastructure
+* System Design
+
+---
+
+# 🤝 Let's Connect
+
+🌐 Portfolio
+https://porto-arx.my.id
+
+💼 LinkedIn
+(Add your LinkedIn URL)
+
+📧 Email
+[aryaisnaidi01@gmail.com](mailto:aryaisnaidi01@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Building software that solves real problems, one system at a time."</i>
+</p>
