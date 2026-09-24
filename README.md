@@ -1,385 +1,191 @@
 <div align="center">
 
-# Arya Isnaidi
-
-### Software Engineer · Full-Stack Developer · Product Builder
-
-Building digital products, backend systems, and scalable applications.
-
-<br/>
-
-<a href="https://porto-arx.my.id">
-  Portfolio
-</a>
-&nbsp; • &nbsp;
-<a href="mailto:aryaisnaidi01@gmail.com">
-  Email
-</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/aryanibos">
-  GitHub
-</a>
+```bash
+┌──────────────────────────────────────────────┐
+│                                              │
+│   $ whoami                                   │
+│                                              │
+│   Arya Isnaidi                               │
+│   Software Engineer                          │
+│   Full-Stack Developer                       │
+│   Indonesia 🇮🇩                              │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 </div>
 
 <br/>
 
 ```bash
-$ whoami
-
-Arya Isnaidi
-
-> Software Engineer from Indonesia
-> Building web products and backend systems
-> Exploring scalable architecture and AI-assisted engineering
+$ cat profile.txt
 ```
-
----
-
-# 🧠 About Me
-
-I am a **Software Engineer** focused on building production-ready applications.
-
-My work combines:
-
-- Product thinking
-- Clean architecture
-- Backend engineering
-- Modern frontend development
-- System integration
-- Continuous improvement
-
-I enjoy transforming ideas into reliable software systems — from designing interfaces, creating APIs, managing databases, integrating third-party services, until deploying applications into production.
 
 ```text
-Idea
- ↓
-Architecture
- ↓
-Implementation
- ↓
-Integration
- ↓
-Deployment
- ↓
-Improvement
-```
-
-Currently focused on:
-
-- Full-stack web applications
-- Backend engineering
-- API design & system integration
-- SaaS development
-- Payment systems
-- AI-assisted development workflows
-
----
-
-# ⚙️ Engineering Stack
-
-## Frontend
-
-```text
-React.js
-Next.js
-TypeScript
-JavaScript
-Tailwind CSS
-Inertia.js
-```
-
-Building:
-
-- Responsive web applications
-- Dashboard systems
-- Interactive user experiences
-- Modern frontend architecture
-
-
----
-
-## Backend
-
-```text
-Laravel
-Node.js
-Express.js
-NestJS
-Go (Gin/Fiber)
-```
-
-Building:
-
-- REST API services
-- Authentication systems
-- Business logic
-- Background processes
-- Third-party integrations
-
-
----
-
-## Database
-
-```text
-PostgreSQL
-MySQL
-MariaDB
-SQLite
-Redis
-```
-
-Experience:
-
-- Database modeling
-- Query optimization
-- Data management
-- Application scalability
-
-
----
-
-## Infrastructure
-
-```text
-Docker
-Linux
-CI/CD
-Cloud Deployment
-Git
-```
+Arya Isnaidi is a Software Engineer who builds
+web products, backend systems, and scalable
+applications.
 
 Focused on:
-
-- Reproducible environments
-- Deployment workflow
-- Application reliability
-
+→ Full-stack development
+→ Backend engineering
+→ API architecture
+→ System integration
+→ AI-assisted development
+```
 
 ---
 
-# 🚀 Selected Projects
-
-
-## 🎁 Rekyndness.id
-
-### Donation Distribution Platform
-
-A platform that supports used toy donation distribution workflows by connecting donors, shipping services, payment systems, and administrators.
-
-### Engineering Highlights
+```bash
+$ ls skills/
+```
 
 ```text
-✓ Donation workflow management
-✓ Shipping aggregator integration
+frontend/
+ ├── React.js
+ ├── Next.js
+ ├── TypeScript
+ ├── JavaScript
+ └── Tailwind CSS
+
+backend/
+ ├── Laravel
+ ├── Node.js
+ ├── NestJS
+ ├── Express.js
+ └── Go
+
+database/
+ ├── PostgreSQL
+ ├── MySQL
+ ├── SQLite
+ └── Redis
+
+infra/
+ ├── Docker
+ ├── Linux
+ ├── CI/CD
+ └── Cloud
+```
+
+---
+
+```bash
+$ ./experience.sh
+```
+
+```text
+[01] Rekyndness.id
+
+Donation Distribution Platform
+
+Built:
+✓ Donation workflow
+✓ Shipping API integration
 ✓ Payment gateway integration
-✓ Admin monitoring system
-✓ Transaction lifecycle
-```
-
-Stack:
-
-```text
-Laravel
-React
-Inertia.js
-MySQL
-REST API
-```
+✓ Admin management system
 
 
----
+[02] FTVPay
 
-## 💳 FTVPay
+QRIS Payment Platform
 
-### QRIS Payment Platform
-
-A digital payment platform focused on transaction processing and payment workflows.
-
-### Engineering Highlights
-
-```text
+Built:
 ✓ Payment integration
-✓ Transaction management
+✓ Transaction system
+✓ Backend API
+✓ Dashboard application
+
+
+[03] Restora
+
+Multi-Tenant Restaurant SaaS
+
+Built:
+✓ SaaS architecture
+✓ Authentication
+✓ Business workflow
 ✓ Backend services
-✓ API communication
-✓ Dashboard system
 ```
-
-Stack:
-
-```text
-Laravel
-React
-MySQL
-REST API
-Payment Gateway
-```
-
 
 ---
 
-## 🍽️ Restora
-
-### Multi-Tenant Restaurant SaaS
-
-A restaurant management platform designed to support operational workflows across multiple branches.
-
-### Architecture Focus
-
-```text
-✓ Multi-tenant architecture
-✓ Role Based Access Control
-✓ Business workflow automation
-✓ Scalable backend services
-✓ Operational dashboard
+```bash
+$ git log --oneline
 ```
 
-Stack:
-
 ```text
-Next.js
-TypeScript
-NestJS
-PostgreSQL
-Redis
-```
+commit a91f8c2
+feat: build scalable web applications
 
+commit b82d921
+feat: integrate external services
+
+commit c72fa31
+feat: improve backend architecture
+
+commit d91aa21
+feat: automate development workflow
+```
 
 ---
 
-# 🏢 Enterprise Experience
-
-Experience developing internal applications:
-
-```text
-SIM Daget
-SIM Pertanian Sehat
-SIM Desa Sarjana Unggul
-SAU Penggajian Dosen
-DBS Mining Logistik
-Government Applications
+```bash
+$ cat philosophy.md
 ```
 
-Focus:
+```text
+Good software is not only about code.
 
-- Business process digitization
-- Backend development
-- API integration
-- Database management
-- System maintenance
-
+It is about understanding problems,
+designing solutions,
+and building systems that survive change.
+```
 
 ---
 
-# 🏗️ Engineering Philosophy
-
-I believe software is not only about writing code.
-
-Good engineering means building systems that are:
-
-```text
-Simple
-Maintainable
-Reliable
-Scalable
-Easy to Improve
+```bash
+$ ai --status
 ```
 
-My approach:
-
-> Understand the problem.
->
-> Design the right solution.
->
-> Build software that survives change.
-
-
----
-
-# 🤖 AI-Assisted Engineering
-
-Exploring how AI can improve modern software development.
-
-Current workflow:
-
 ```text
-Problem Analysis
-        ↓
-AI-assisted Research
-        ↓
-Architecture Planning
-        ↓
-Implementation
-        ↓
-Code Review
-        ↓
-Optimization
-```
+AI-assisted engineering enabled ✓
 
 Tools:
+- Claude
+- OpenAI Codex
+- Cursor
+- GitHub Copilot
+- Gemini
 
-```text
-Claude
-OpenAI Codex
-Cursor
-GitHub Copilot
-Gemini
-```
-
-AI is not replacing engineering.
-
-It is becoming a powerful engineering partner.
-
----
-
-# 📚 Currently Exploring
-
-## Backend Architecture
-
-```text
-System Design
-Distributed Systems
-Scalable APIs
-Cloud Infrastructure
-```
-
-## AI Engineering
-
-```text
-Agentic Workflow
-AI Developer Tools
-Automation
-Developer Productivity
+Using AI to:
+→ explore ideas
+→ improve productivity
+→ review solutions
+→ accelerate development
 ```
 
 ---
 
-# 🌎 Let's Connect
-
-Open for:
-
-```text
-Software Engineering Opportunities
-Full-Stack Development
-Backend Engineering
-Product Collaboration
-Technology Projects
+```bash
+$ connect
 ```
 
-🌐 Portfolio  
+```text
+Portfolio:
 https://porto-arx.my.id
 
-📧 Email  
-aryaisnaidi01@gmail.com
-
-💻 GitHub  
+GitHub:
 https://github.com/aryanibos
 
+Email:
+aryaisnaidi01@gmail.com
+```
 
 <div align="center">
 
-### Turning ideas into systems.
+```bash
+$ echo "Thanks for visiting 🚀"
+```
 
 </div>
