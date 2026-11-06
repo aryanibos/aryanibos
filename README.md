@@ -41,23 +41,18 @@ Alongside product engineering, I specialize in **agentic engineering**: building
 
 ![Also work with](https://skillicons.dev/icons?i=python,php,laravel,nextjs,express,mysql,sqlite,github,vscode,postman)
 
-## Featured Projects
+## Featured Skills
 
 | Project | Description |
 | --- | --- |
 | **[arx-backend](https://github.com/aryanibos/arx-backend)** | Reusable agent skill for building secure, maintainable backends — architecture, security hardening, and review standards baked in. |
 | **[arx-ui-spec](https://github.com/aryanibos/arx-ui-spec)** | Cross-agent UI specification skill that turns Figma exports and screenshots into implementable specs. |
 | **[bansos-check](https://github.com/aryanibos/bansos-check)** | Agent skill that evaluates freebie/giveaway offers — free AI credits, airdrops, promo installers — and returns evidence-based AMAN / HATI-HATI / JANGAN safety verdicts. |
-| **[gaskeun](https://github.com/aryanibos/gaskeun)** | AI-powered content approval & auto-publishing workspace for in-house design teams. |
-
-**Axentra** *(internal, PT Perkasa Pilar Utama)* — Document Management System: role-based access, document versioning, audit trails, and workflow approvals — where I lead the engineering team.
-
-## GitHub Stats
 
 <div align="center">
 
-![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanibos&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanibos&layout=compact&theme=github_dark_dimmed&hide_border=true)
+![GitHub followers](https://img.shields.io/github/followers/aryanibos?style=for-the-badge&logo=github&label=Followers&color=181717)
+![Total stars](https://img.shields.io/github/stars/aryanibos?style=for-the-badge&logo=github&label=Total%20Stars&color=181717)
 
 </div>
 
