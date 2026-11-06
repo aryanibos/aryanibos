@@ -7,7 +7,7 @@
 Building web products, backend systems, and AI-agent tooling — from Jakarta, Indonesia 🇮🇩
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-porto--arx.my.id-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://porto-arx.my.id)
-[![Email](https://img.shields.io/badge/Email-aryaisnaidi01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryaisnaidi01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arya@fusionify.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arya@fusionify.id)
 [![GitHub](https://img.shields.io/badge/GitHub-@aryanibos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanibos)
 
 </div>
