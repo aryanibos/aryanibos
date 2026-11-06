@@ -49,10 +49,11 @@ Alongside product engineering, I specialize in **agentic engineering**: building
 | **[arx-ui-spec](https://github.com/aryanibos/arx-ui-spec)** | Cross-agent UI specification skill that turns Figma exports and screenshots into implementable specs. |
 | **[bansos-check](https://github.com/aryanibos/bansos-check)** | Agent skill that evaluates freebie/giveaway offers — free AI credits, airdrops, promo installers — and returns evidence-based AMAN / HATI-HATI / JANGAN safety verdicts. |
 
+## GitHub Stats
+
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/aryanibos?style=for-the-badge&logo=github&label=Followers&color=181717)
-![Total stars](https://img.shields.io/github/stars/aryanibos?style=for-the-badge&logo=github&label=Total%20Stars&color=181717)
+![Arya's contribution streak — total contributions, current streak, longest streak](https://streak-stats.demolab.com/?user=aryanibos&theme=dark&hide_border=true)
 
 </div>
 
