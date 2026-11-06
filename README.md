@@ -1,167 +1,70 @@
 <div align="center">
 
-```bash
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  arya@linux:~/profile$ whoami                        │
-│                                                      │
-│  █████╗ ██████╗ ██╗   ██╗ █████╗                     │
-│  ██╔══╝ ██╔══██╗╚██╗ ██╔╝██╔══██╗                    │
-│  █████╗ ██████╔╝ ╚████╔╝ ███████║                    │
-│  ██╔══╝ ██╔══██╗  ╚██╔╝  ██╔══██║                    │
-│  ██║   ██║  ██║   ██║   ██║  ██║                    │
-│  ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝                    │
-│                                                      │
-│  Arya Isnaidi                                        │
-│  Software Engineer                                   │
-│  Full-Stack Developer                                │
-│  Indonesia 🇮🇩                                       │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+# Arya Isnaidi
+
+**Software Engineer · Tech Lead · AI Agent Specialist**
+
+Building web products, backend systems, and AI-agent tooling — from Jakarta, Indonesia 🇮🇩
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-porto--arx.my.id-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://porto-arx.my.id)
+[![Email](https://img.shields.io/badge/Email-aryaisnaidi01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryaisnaidi01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@aryanibos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanibos)
 
 </div>
 
-
-```bash
-arya@linux:~/profile$ cat about.txt
-```
-
-```
-Arya Isnaidi is a Software Engineer focused on building
-web products, backend systems, and scalable applications.
-
-Specialized in:
-
-→ Full-stack development
-→ Backend engineering
-→ API architecture
-→ System integration
-→ AI-assisted development workflows
-```
-
-
 ---
 
-```bash
-arya@linux:~/profile$ ls skills/
-```
+## About
 
+I'm a software engineer and **Tech Lead of Axentra**, an internal document management system at **PT Perkasa Pilar Utama** — a Bun/TypeScript monorepo (Hono API, React/Vite web app, BullMQ workers, PostgreSQL, Redis, MinIO) serving enterprise document workflows.
 
-```
-📁 frontend/
+Alongside product engineering, I specialize in **agentic engineering**: building agent skill libraries, MCP servers, and multi-model routing infrastructure that make AI coding agents reliable enough for real production work. I'm also a **Co-Founder of Fusionify Digital Store** (11 digital products).
 
- ├── React.js
- ├── Next.js
- ├── TypeScript
- ├── JavaScript
- └── Tailwind CSS
+- 🎓 B.Sc. Informatics, STT Terpadu Nurul Fikri (2026) — GPA 3.87
+- 🤖 OpenAI AI / Agents certified (2026)
+- 🌏 Open to remote-first and international opportunities
 
+## What I Do
 
-📁 backend/
+- **Full-stack product engineering** — TypeScript end to end: APIs, web apps, background workers
+- **System & API architecture** — monorepos, queues, storage, integrations designed to evolve
+- **AI agent tooling** — agent skills, MCP servers (Playwright, Exa, reverse-engineering), LLM routing & cost optimization
+- **Technical leadership** — sprint planning, code review, and mentoring a small delivery team
 
- ├── Laravel
- ├── Node.js
- ├── NestJS
- ├── Express.js
- └── Go
+## Tech Stack
 
+**Core**
 
-📁 database/
+![Core stack](https://skillicons.dev/icons?i=ts,js,bun,nodejs,react,vite,tailwind,postgres,redis,docker,linux,git)
 
- ├── PostgreSQL
- ├── MySQL
- ├── SQLite
- └── Redis
+**Also work with**
 
+![Also work with](https://skillicons.dev/icons?i=python,php,laravel,nextjs,express,mysql,sqlite,github,vscode,postman)
 
-📁 infrastructure/
+## Featured Projects
 
- ├── Docker
- ├── Linux
- ├── CI/CD
- └── Cloud Deployment
-```
+| Project | Description |
+| --- | --- |
+| **[arx-backend](https://github.com/aryanibos/arx-backend)** | Reusable agent skill for building secure, maintainable backends — architecture, security hardening, and review standards baked in. |
+| **[arx-ui-spec](https://github.com/aryanibos/arx-ui-spec)** | Cross-agent UI specification skill that turns Figma exports and screenshots into implementable specs. |
+| **[bansos-check](https://github.com/aryanibos/bansos-check)** | Agent skill that evaluates freebie/giveaway offers — free AI credits, airdrops, promo installers — and returns evidence-based AMAN / HATI-HATI / JANGAN safety verdicts. |
+| **[gaskeun](https://github.com/aryanibos/gaskeun)** | AI-powered content approval & auto-publishing workspace for in-house design teams. |
 
+**Axentra** *(internal, PT Perkasa Pilar Utama)* — Document Management System: role-based access, document versioning, audit trails, and workflow approvals — where I lead the engineering team.
 
----
-```bash
-arya@linux:~/profile$ cat philosophy.md
-```
-
-
-```
-I don't just write code.
-
-I build systems.
-
-Good software should be:
-
-✓ Understandable
-✓ Maintainable
-✓ Reliable
-✓ Ready to evolve
-
-
-"Build today.
-Design for tomorrow."
-```
-
-
----
-
-```bash
-arya@linux:~/profile$ ai --status
-```
-
-
-```
-AI-Assisted Engineering: ENABLED ✓
-
-
-Tools:
-
-├── Claude
-├── OpenAI Codex
-├── Cursor
-├── GitHub Copilot
-└── Gemini
-
-
-Used for:
-
-→ Research
-→ Architecture exploration
-→ Code improvement
-→ Development acceleration
-```
-
-
----
-
-```bash
-arya@linux:~/profile$ connect
-```
-
-
-```
-🌐 Portfolio
-└── https://porto-arx.my.id
-
-
-💻 GitHub
-└── https://github.com/aryanibos
-
-
-📧 Email
-└── aryaisnaidi01@gmail.com
-```
-
+## GitHub Stats
 
 <div align="center">
 
-```bash
-arya@linux:~/profile$ echo "Thanks for visiting 🚀"
-```
+![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanibos&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanibos&layout=compact&theme=github_dark_dimmed&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build today. Design for tomorrow."*
 
 </div>
